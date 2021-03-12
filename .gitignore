@@ -105,6 +105,7 @@ dist
 
 #Bot add url
 /src/url.txt
+/src/config.json
 
 #Compiled files
 /src/*.js
