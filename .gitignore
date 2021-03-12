@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Bot add url
+/src/url.txt
+
+#Compiled files
+/src/*.js
+/src/*.js.map
